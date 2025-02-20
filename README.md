@@ -1,1 +1,1 @@
-# Learning-With-Noisy-Labels-on-Medical-Image-Dataset
+# Learning-With-Noisy-Labels-on-Medical-ISIC-Dataset
